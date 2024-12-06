@@ -14,7 +14,8 @@ void loop() {
 
   digitalWrite(motorPin1, LOW);
   digitalWrite(motorPin2, LOW);
-  delay(2000); // توقف برای 2 ثانیه
+  delay(2000); 
+  
 
   digitalWrite(motorPin1, LOW); 
   digitalWrite(motorPin2, HIGH); 
